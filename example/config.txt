@@ -1,0 +1,2 @@
+Prefix plugins/CSVComma/example/
+Plugin CSVComma inputfile asv.tab.csv outputfile asv.tab.commapad.csv
